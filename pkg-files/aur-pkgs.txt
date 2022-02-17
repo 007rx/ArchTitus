@@ -1,10 +1,4 @@
 autojump
-brave-bin
-dxvk-bin
-github-desktop-bin
-lightly-git
-mangohud
-mangohud-common
 nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme
@@ -14,4 +8,4 @@ ocs-url
 sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
-zoom
+firefox-developer
