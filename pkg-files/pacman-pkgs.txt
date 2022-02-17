@@ -61,6 +61,7 @@ kcodecs
 kcoreaddons
 kde-plasma-addons
 kinfocenter
+kitty
 kscreen
 kvantum-qt5
 kde-gtk-config
