@@ -10,11 +10,13 @@ plasma-desktop
 alsa-plugins
 alsa-utils
 ark
+audiocd-kio
 autoconf
 automake
 awesome-terminal-fonts
 base
 bash-completion
+bind
 binutils
 bison
 bluedevil
@@ -25,6 +27,8 @@ breeze
 breeze-gtk
 bridge-utils
 btrfs-progs
+celluloid
+cmatrix
 code
 cronie
 cups
@@ -38,6 +42,7 @@ egl-wayland
 exfat-utils
 extra-cmake-modules
 filelight
+flex
 fuse2
 fuse3
 fuseiso
@@ -53,6 +58,7 @@ gst-libav
 gst-plugins-good
 gst-plugins-ugly
 gwenview
+haveged
 htop
 iptables-nft
 jdk-openjdk
@@ -61,10 +67,10 @@ kcodecs
 kcoreaddons
 kde-plasma-addons
 kinfocenter
-kitty
 kscreen
 kvantum-qt5
 kde-gtk-config
+kitty
 konsole
 kscreen
 layer-shell-qt
@@ -75,7 +81,9 @@ linux
 linux-firmware
 linux-headers
 lsof
+lutris
 lzop
+m4
 make
 milou
 nano
@@ -114,13 +122,16 @@ sddm-kcm
 snapper
 snap-pac
 spectacle
+steam
 sudo
+swtpm
 systemsettings
 terminus-font
 traceroute
 ttf-droid
 ttf-hack
 ttf-roboto
+ufw
 unrar
 unzip
 usbutils
@@ -134,7 +145,3 @@ zip
 zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
-pipewire
-pipewire-pulse
-pipewire-alsa
-pipewire-jack
